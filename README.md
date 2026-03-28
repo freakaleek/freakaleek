@@ -18,7 +18,7 @@
 <table border="0">
   <tr>
     <td width="50%" align="center" valign="middle" style="border: none;">
-      <img src="https://cdn.discordapp.com/attachments/1059583060464648202/1472315232926830663/pony-town--boop-sit-12x.gif?ex=69921fe9&is=6990ce69&hm=2159ca0930fc6874bb91660d52e8aaf448e45b1efcd6704670979d050b684ba2" width="70%"><br>
+      <img src="https://cdn.discordapp.com/attachments/1059583060464648202/1472315232926830663/pony-town--boop-sit-12x.gif?ex=69c97ee9&is=69c82d69&hm=c0ccf2d3d198a58828011313a709dd42ca3e3a0dda163b8ddd5c8c483ed71b35" width="50%"><br>
      𝐌𝐲 𝐦𝐚𝐢𝐧 𝐬𝐤𝐢𝐧, 𝐅𝐫𝐞𝐚𝐤! <a></a>
     </td>
     <td align="left" valign="middle" style="border: none;">
